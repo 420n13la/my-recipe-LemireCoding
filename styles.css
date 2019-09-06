@@ -1,0 +1,41 @@
+
+body {
+
+	background-color: rgb(133, 130, 130);
+}
+
+h1 {
+	text-align: center;
+    color : rgb(196, 161, 91);
+    font-size: 45px;
+}
+
+p {
+text-align : center;
+color : rgb(196, 161, 91);
+font-size : 30px;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 150px;
+height: 150px;
+}
+
+ol{ 
+text-align: center;
+font-size: 25px;
+color:rgb(52, 196, 129);
+list-style-position:inside;
+
+ }
+
+ul{ 
+text-align: center;
+font-size: 25px;
+color:rgb(52, 196, 129);
+list-style-position:inside;
+list-style-type: square;
+ }
